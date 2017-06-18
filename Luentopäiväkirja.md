@@ -1,1 +1,1 @@
-# ITKST53
+# ITKST53 - Luentopäiväkirja
