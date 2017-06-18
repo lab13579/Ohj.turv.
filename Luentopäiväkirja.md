@@ -1,1 +1,1 @@
-# ITKST53 - Luentopäiväkirja
+# Ohj.turv - Luentopäiväkirja
